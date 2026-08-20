@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.blah,
+.boots {
+    font-size: 28px;
+    font-family: "Helvitica", "Times New Roman", "sans-serif";
+}
+
+.blah {
+    background-color: black;
+    color: white;
+}
+
+.boots {
+    background-color: yellow;
+}
