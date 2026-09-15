@@ -25,4 +25,9 @@ body {
   /* CHANGE ME */
   padding: 0px;
   margin-left: 0px;
+  
+}
+
+.one .three {
+  padding: 32px;
 }
